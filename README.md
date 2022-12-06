@@ -1,6 +1,11 @@
 <h1>Hi, I'm Olakunle! </h1>
 
-- Learning anything cloud related, but not limited to: Applications, Network infrastructure, Administration and Security  
+- Learning anything cloud related, but not limited to: Applications, Network infrastructure, Administration and Security
+
+<h2>Projects</h2>
+
+- <b>Terraform IaC with AWS VPC</b>
+  - [Dev Environment in AWS Cloud with Terraform](https://github.com/lo704/aws_dev_env)
 
 <h2>Certifications</h2>
 
