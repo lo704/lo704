@@ -1,6 +1,6 @@
 <h1>Hi, I'm Olakunle! </h1>
 
-- Learning anything cloud related: applications, network infrastructure, administration and security  
+- Learning anything cloud related, but not limited to: Applications, Network infrastructure, Administration and Security  
 
 <h2>Certifications</h2>
 
