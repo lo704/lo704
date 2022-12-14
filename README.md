@@ -5,7 +5,7 @@
 <h2>Projects</h2>
 
 - <b>Terraform</b>
-  - [Delpoying and Configuring Docker in AWS](https://github.com/lo704/aws_dev_env)
+  - [Deploying and Configuring Docker in AWS](https://github.com/lo704/aws_dev_env)
 
 <h2>Certifications</h2>
 
