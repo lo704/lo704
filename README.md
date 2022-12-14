@@ -7,6 +7,9 @@
 - <b>Terraform</b>
   - [Deploying and Configuring Docker in AWS](https://github.com/lo704/aws_dev_env)
 
+- <b>Microsoft Azure Cloud</b>
+  - [Configuring Active Directory with Azure VMs](https://github.com/lo704/Configuring-Active-Directory-in-Azure-VM)
+
 <h2>Certifications</h2>
 
 - [AWS Cloud Practioner](https://www.credly.com/badges/a3165e69-1f68-4396-a844-228076469b3a)
