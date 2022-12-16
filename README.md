@@ -8,7 +8,7 @@
   - [Deploying and Configuring Docker in AWS](https://github.com/lo704/aws_dev_env)
 
 - <b>Microsoft Azure Cloud</b>
-  - [Configuring Active Directory with Azure VMs](https://github.com/lo704/Configuring-Active-Directory-in-Azure-VM)
+  - [Deploying and Configuring Docker in AWS](https://github.com/lo704/aws_dev_env)
 
 <h2>Certifications</h2>
 
@@ -36,4 +36,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [Configuring Active Directory with Azure VMs](https://github.com/lo704/Configuring-Active-Directory-in-Azure-VM)
 -->
